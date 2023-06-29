@@ -7,6 +7,7 @@ namespace Final_Exam__Net_Pay_Calculator_Balisbis //this is your project name. i
             InitializeComponent();
         }
 
+        // Declare constant variable
         private const decimal SUB_INCOME_TAX = 61.54m;
 
         private void btnCompute_Click(object sender, EventArgs e)
