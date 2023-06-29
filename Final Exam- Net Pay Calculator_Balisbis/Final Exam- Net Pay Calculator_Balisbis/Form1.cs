@@ -1,4 +1,4 @@
-namespace Final_Exam__Net_Pay_Calculator_Balisbis
+namespace Final_Exam__Net_Pay_Calculator_Balisbis //this is your project name. it is automatically created as you create your project at first.
 {
     public partial class Form1 : Form
     {
@@ -19,12 +19,15 @@ namespace Final_Exam__Net_Pay_Calculator_Balisbis
             double incomeTax;
 
         try {
+            // Convert input values to numeric and assign to variable.
              salary = double.Parse(txtSalary.Text);     
                 try {
                     marital_status = txtMaritalStatus.Text;
                     try { 
+                        // Convert input values to numeric and assign to variable.
                         dependents = int.Parse(txtDependents.Text);
 
+                        // Conditional Statements under single
                         if (marital_status == "Single")
                         {
                             if (salary <= 606)
@@ -48,6 +51,7 @@ namespace Final_Exam__Net_Pay_Calculator_Balisbis
                                 tax = 1821.86 + (salary - 6316) * 0.25;
                             }
                         }
+                        // Conditional Statement under married
                         if (marital_status == "Married")
                         {
                             if (salary <= 1273)
@@ -72,6 +76,7 @@ namespace Final_Exam__Net_Pay_Calculator_Balisbis
                             }
                         }
 
+                        // Calculation to get tax and net pay
                         incomeTax = tax + ((double)SUB_INCOME_TAX * dependents);
                         netPay = salary - incomeTax;
 
@@ -80,6 +85,7 @@ namespace Final_Exam__Net_Pay_Calculator_Balisbis
                         txtNetPay.Text = netPay.ToString("0.00");
 
                     } catch {
+                        // Show invalid message when invalid input occurs
                         MessageBox.Show("Invalid Dependents.", "Data Error",
                         MessageBoxButtons.OK, MessageBoxIcon.Warning);
                         txtDependents.Focus();
