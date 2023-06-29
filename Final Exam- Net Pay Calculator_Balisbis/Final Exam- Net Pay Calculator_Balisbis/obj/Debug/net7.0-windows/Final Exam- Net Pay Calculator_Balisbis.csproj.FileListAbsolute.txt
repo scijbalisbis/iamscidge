@@ -1,0 +1,17 @@
+C:\Users\FFBC\Downloads\Scij2\VIS\Final Exam- Net Pay Calculator_Balisbis\Final Exam- Net Pay Calculator_Balisbis\bin\Debug\net7.0-windows\Final Exam- Net Pay Calculator_Balisbis.exe
+C:\Users\FFBC\Downloads\Scij2\VIS\Final Exam- Net Pay Calculator_Balisbis\Final Exam- Net Pay Calculator_Balisbis\bin\Debug\net7.0-windows\Final Exam- Net Pay Calculator_Balisbis.deps.json
+C:\Users\FFBC\Downloads\Scij2\VIS\Final Exam- Net Pay Calculator_Balisbis\Final Exam- Net Pay Calculator_Balisbis\bin\Debug\net7.0-windows\Final Exam- Net Pay Calculator_Balisbis.runtimeconfig.json
+C:\Users\FFBC\Downloads\Scij2\VIS\Final Exam- Net Pay Calculator_Balisbis\Final Exam- Net Pay Calculator_Balisbis\bin\Debug\net7.0-windows\Final Exam- Net Pay Calculator_Balisbis.dll
+C:\Users\FFBC\Downloads\Scij2\VIS\Final Exam- Net Pay Calculator_Balisbis\Final Exam- Net Pay Calculator_Balisbis\bin\Debug\net7.0-windows\Final Exam- Net Pay Calculator_Balisbis.pdb
+C:\Users\FFBC\Downloads\Scij2\VIS\Final Exam- Net Pay Calculator_Balisbis\Final Exam- Net Pay Calculator_Balisbis\obj\Debug\net7.0-windows\Final Exam- Net Pay Calculator_Balisbis.csproj.AssemblyReference.cache
+C:\Users\FFBC\Downloads\Scij2\VIS\Final Exam- Net Pay Calculator_Balisbis\Final Exam- Net Pay Calculator_Balisbis\obj\Debug\net7.0-windows\Final_Exam__Net_Pay_Calculator_Balisbis.Form1.resources
+C:\Users\FFBC\Downloads\Scij2\VIS\Final Exam- Net Pay Calculator_Balisbis\Final Exam- Net Pay Calculator_Balisbis\obj\Debug\net7.0-windows\Final Exam- Net Pay Calculator_Balisbis.csproj.GenerateResource.cache
+C:\Users\FFBC\Downloads\Scij2\VIS\Final Exam- Net Pay Calculator_Balisbis\Final Exam- Net Pay Calculator_Balisbis\obj\Debug\net7.0-windows\Final Exam- Net Pay Calculator_Balisbis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FFBC\Downloads\Scij2\VIS\Final Exam- Net Pay Calculator_Balisbis\Final Exam- Net Pay Calculator_Balisbis\obj\Debug\net7.0-windows\Final Exam- Net Pay Calculator_Balisbis.AssemblyInfoInputs.cache
+C:\Users\FFBC\Downloads\Scij2\VIS\Final Exam- Net Pay Calculator_Balisbis\Final Exam- Net Pay Calculator_Balisbis\obj\Debug\net7.0-windows\Final Exam- Net Pay Calculator_Balisbis.AssemblyInfo.cs
+C:\Users\FFBC\Downloads\Scij2\VIS\Final Exam- Net Pay Calculator_Balisbis\Final Exam- Net Pay Calculator_Balisbis\obj\Debug\net7.0-windows\Final Exam- Net Pay Calculator_Balisbis.csproj.CoreCompileInputs.cache
+C:\Users\FFBC\Downloads\Scij2\VIS\Final Exam- Net Pay Calculator_Balisbis\Final Exam- Net Pay Calculator_Balisbis\obj\Debug\net7.0-windows\Final Exam- Net Pay Calculator_Balisbis.dll
+C:\Users\FFBC\Downloads\Scij2\VIS\Final Exam- Net Pay Calculator_Balisbis\Final Exam- Net Pay Calculator_Balisbis\obj\Debug\net7.0-windows\refint\Final Exam- Net Pay Calculator_Balisbis.dll
+C:\Users\FFBC\Downloads\Scij2\VIS\Final Exam- Net Pay Calculator_Balisbis\Final Exam- Net Pay Calculator_Balisbis\obj\Debug\net7.0-windows\Final Exam- Net Pay Calculator_Balisbis.pdb
+C:\Users\FFBC\Downloads\Scij2\VIS\Final Exam- Net Pay Calculator_Balisbis\Final Exam- Net Pay Calculator_Balisbis\obj\Debug\net7.0-windows\Final Exam- Net Pay Calculator_Balisbis.genruntimeconfig.cache
+C:\Users\FFBC\Downloads\Scij2\VIS\Final Exam- Net Pay Calculator_Balisbis\Final Exam- Net Pay Calculator_Balisbis\obj\Debug\net7.0-windows\ref\Final Exam- Net Pay Calculator_Balisbis.dll

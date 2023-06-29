@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Final Exam- Net Pay Calculator_Balisbis/1.0.0": {
+        "runtime": {
+          "Final Exam- Net Pay Calculator_Balisbis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Final Exam- Net Pay Calculator_Balisbis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
